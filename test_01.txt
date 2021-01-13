@@ -1,0 +1,229 @@
+PS C:\Users\Кирилл\Desktop\VSC\ООП_8> .\a.exe 5  
+Choose figure type: 1. Pentagon.
+                    2. Hexagon. 
+                    3. Octogon  
+1
+Enter center coordinates and radius: 1
+1
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon. 
+                    3. Octogon  
+2
+Enter center coordinates and radius: 2
+2
+2
+Choose figure type: 1. Pentagon.
+                    2. Hexagon. 
+                    3. Octogon  
+3
+Enter center coordinates and radius: 3
+3
+3
+Choose figure type: 1. Pentagon.
+                    2. Hexagon. 
+                    3. Octogon  
+1
+Enter center coordinates and radius: 4
+4
+4
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+2
+Enter center coordinates and radius: 5
+5
+5
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (4,8)
+B = (7.53179,5.87789)
+C = (6.87736,1.22137)
+D = (2.24652,0.404824)
+E = (0.0389277,4.55669)
+----------
+----------
+A = (5,10)
+B = (9.33013,7.5)
+C = (9.33013,2.5)
+D = (5,0)
+E = (0.669873,2.5)
+F = (0.669873,7.5)
+----------
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+1
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+1
+11
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+11
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+1
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+1
+1
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (1,12)
+B = (10.7124,6.16419)
+C = (8.91274,-6.64124)
+D = (-3.82208,-8.88673)
+E = (-9.89295,2.5309)
+----------
+----------
+A = (1,12)
+B = (1.88295,11.4695)
+C = (1.71934,10.3053)
+D = (0.561629,10.1012)
+E = (0.00973193,11.1392)
+----------
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
+1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+2
+2
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+2
+Enter center coordinates and radius: 2
+2
+2
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+3
+Enter center coordinates and radius: 3
+3
+3
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+3
+Enter center coordinates and radius: 3
+3
+3
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+3
+Enter center coordinates and radius: 3
+3
+3
+----------
+A = (1,4)
+B = (2.7659,2.93894)
+C = (2.43868,0.610683)
+D = (0.123258,0.202412)
+E = (-0.980536,2.27835)
+----------
+----------
+A = (2,4)
+B = (3.73205,3)
+C = (3.73205,1)
+D = (2,0)
+E = (0.267949,1)
+F = (0.267949,3)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+----------
+A = (3,6)
+B = (5.12132,5.12132)
+C = (6,3)
+D = (5.12132,0.87868)
+E = (3,0)
+F = (0.87868,0.87868)
+G = (0,3)
+H = (0.87868,5.12132)
+----------
+0

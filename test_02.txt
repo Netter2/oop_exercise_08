@@ -1,0 +1,18 @@
+PS C:\VSC> .\a.exe 0
+ERROR
+Incorrect buffer length.
+PS C:\VSC> .\a.exe 1
+Choose figure type: 1. Pentagon.
+                    2. Hexagon.
+                    3. Octogon
+1
+Enter center coordinates and radius: 1
+1
+1
+----------
+A = (1,2)
+B = (1.88295,1.46947)
+C = (1.71934,0.305342)
+D = (0.561629,0.101206)
+E = (0.00973193,1.13917)
+----------
